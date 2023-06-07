@@ -36,7 +36,7 @@ At the start of my career, I am eager to improve my skills, increase my knowledg
             <a href="https://pixabay.com/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="36" height="36" alt="Github" /></a>
         </td>
         <td>
-            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="[https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png](https://code.visualstudio.com/assets/images/code-stable.png)" width="36" height="36" alt="Github" /></a>
+            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="36" height="36" alt="VS Code" /></a>
         </td>
     </tr>
 </table>
