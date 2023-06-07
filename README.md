@@ -19,10 +19,13 @@ At the start of my career, I am eager to improve my skills, increase my knowledg
 ## 🛠 Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+![Github Logo](https://www.vectorlogo.zone/logos/github/github-ar21.svg) 
+![VS Code Logo](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
+
 </p>
 
  * ![HTML5 Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
@@ -31,9 +34,9 @@ At the start of my career, I am eager to improve my skills, increase my knowledg
  
  * ![Javascript Logo](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg) (ES6+)
  
- * ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg) ![Github Logo](https://www.vectorlogo.zone/logos/github/github-ar21.svg) 
+ * ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg) 
  
- * ![VS Code Logo](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
+ * 
  
 ## More about me
 👩‍💻 I'm currently working on projects which force me to practice my skills, especially Javascript, and on learning everything I can about frontend development - little by little! 
