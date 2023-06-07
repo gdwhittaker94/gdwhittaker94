@@ -18,11 +18,15 @@ At the start of my career, I am eager to improve my skills, increase my knowledg
 
 ## 🛠 Skills
 
- ![HTML5 Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
- ![CSS Logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg) (Responsive Web Design, BEM Methodology)
- ![Javascript Logo](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg) (ES6+)
- ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg) ![Github Logo](https://www.vectorlogo.zone/logos/github/github-ar21.svg) 
- ![VS Code Logo](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
+ * ![HTML5 Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
+ 
+ * ![CSS Logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg) (Responsive Web Design, BEM Methodology)
+ 
+ * ![Javascript Logo](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg) (ES6+)
+ 
+ * ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg) ![Github Logo](https://www.vectorlogo.zone/logos/github/github-ar21.svg) 
+ 
+ * ![VS Code Logo](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
  
 ## More about me
 👩‍💻 I'm currently working on projects which force me to practice my skills, especially Javascript, and on learning everything I can about frontend development - little by little! 
