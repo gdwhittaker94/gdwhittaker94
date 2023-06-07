@@ -36,13 +36,17 @@ At the start of my career, I am eager to improve my skills, increase my knowledg
 ⚡️ Fun fact: I love dancing Salsa, Bachata, Merengue dance styles 🕺
 
 *Github Stats*
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdwhittaker94&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 *Github Streak Stats*
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gdwhittaker94&theme=dark)](https://git.io/streak-stats)
 
 *Github Trophy Profile*
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=gdwhittaker94&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 *Github Top Languages*
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdwhittaker94&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
