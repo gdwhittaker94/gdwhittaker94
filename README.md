@@ -24,7 +24,9 @@ At the start of my career, I am eager to improve my skills, increase my knowledg
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
+
 ![Github Logo](https://www.vectorlogo.zone/logos/github/github-ar21.svg) 
+
 ![VS Code Logo](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
 
  * ![HTML5 Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
