@@ -35,29 +35,11 @@ At the start of my career, I am eager to improve my skills, increase my knowledg
         <td>
             <a href="https://pixabay.com/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="36" height="36" alt="Github" /></a>
         </td>
+        <td>
+            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="[https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png](https://code.visualstudio.com/assets/images/code-stable.png)" width="36" height="36" alt="Github" /></a>
+        </td>
     </tr>
 </table>
-
-<p align="left">
-
-
-
- 
-</p>
-
-
-
-![VS Code Logo](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
-
- * ![HTML5 Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
- 
- * ![CSS Logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg) (Responsive Web Design, BEM Methodology)
- 
- * ![Javascript Logo](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg) (ES6+)
- 
- * ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg) 
- 
- * 
  
 ## More about me
 👩‍💻 I'm currently working on projects which force me to practice my skills, especially Javascript, and on learning everything I can about frontend development - little by little! 
