@@ -42,7 +42,7 @@ At the start of my career, I am eager to improve my skills, increase my knowledg
 </table>
  
 ## More about me
-👩‍💻 I'm currently working on projects which force me to practice my skills, especially Javascript, and on learning everything I can about frontend development - little by little! 
+👩‍💻 I'm currently working on projects which force me to practice my skills, especially Javascript, and learning everything I can about frontend development - little by little! 
 
 🧠 The next things I want to learn in-depth are React.js, TypeScript, Tailwind CSS, Figma and Jest.
 
