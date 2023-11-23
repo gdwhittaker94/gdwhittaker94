@@ -1,5 +1,5 @@
 
-# Hi, I'm Guy David Whittaker! 👋
+# Hi, I'm David Whittaker! 👋
 
 
 ## 🚀 About Me
