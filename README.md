@@ -30,6 +30,7 @@ At the start of my career, I am hungry to learn, build, connect with people, bec
 ![icons8-git-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/ad9536b0-c2d0-417b-871a-49f29136a755) . 
 ![icons8-npm-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/334b0c61-70fa-423b-b749-a341ec694f3f)
 
+
 ## 📖 Future Skills & Knowledge
 I love learning and getting better! These are the different technologies and skills I want to focus on in the future: 
 ![icons8-typescript-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/6059f3ce-3ba2-403c-9ea6-b4fcb79f4be2) .
