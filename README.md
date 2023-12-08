@@ -8,15 +8,13 @@ I'm a frontend developer who's passionate about building functional, user-friend
 
 At the start of my career, I am hungry to learn more, build more, connect with more people, become a master at my craft and to also become an integral and value-adding asset of an awesome team!
 
+![icons8-react-a-javascript-library-for-building-user-interfaces-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/74a0f260-d0bd-4e13-8931-3c0ac84c306e)
 
 
 ## 🛠 Skills
 
 <table>
     <tr>
-        <td>
-            ![icons8-react-a-javascript-library-for-building-user-interfaces-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/201bc690-f9a0-4edc-9bb8-8ff0def6f003)
-        </td>
         <td>
             <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
         </td>
