@@ -50,17 +50,9 @@ I love learning and getting better! These are the different technologies and ski
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdwhittaker94&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-*Github Streak Stats*
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gdwhittaker94&theme=dark)](https://git.io/streak-stats)
-
 *Github Trophy Profile*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gdwhittaker94&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-*Github Top Languages*
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdwhittaker94&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 All icons have been sourced from <a target="_blank" href="https://icons8.com">Icons8</a>.
