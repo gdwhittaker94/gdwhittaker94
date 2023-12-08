@@ -20,43 +20,13 @@ At the start of my career, I am hungry to learn more, build more, connect with m
 ![icons8-jest-can-collect-code-coverage-information-from-entire-projects-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/225bbbd6-2b9d-4bf1-b374-64441ca00efd)
 ![icons8-react-a-javascript-library-for-building-user-interfaces-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/74a0f260-d0bd-4e13-8931-3c0ac84c306e)
 ![icons8-api-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/afc59544-d225-438f-becc-1d08a82f6536)
-![icons8-sql-60](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/d8aeb153-1707-41b9-a701-2f34b161a181)
 ![icons8-python-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/04adf1a3-1a3d-49a8-82a7-66022c9ebfd9)
-![icons8-flask-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/500e2fde-fec1-44a7-9ae7-f091456b62fa)
-
+![icons8-sql-60](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/49aac8af-0179-4dcf-8a41-e2de3e8db5a5)
+![icons8-flask-50](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/f47d6b72-4c8b-4fcd-afbb-2b0bfd570c56)
 
 ## 📖 Future Skills & Knowledge
 ![icons8-typescript-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/6059f3ce-3ba2-403c-9ea6-b4fcb79f4be2)
 ![icons8-tailwind-css-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/5e7bee00-601b-49e6-b9c3-dc4c464f88ba)
-
-
-
-
-
-
-
-<table>
-    <tr>
-        <td>
-            <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-        </td>
-        <td>
-            <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-        </td>
-        <td>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-        </td>
-        <td>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-        </td>
-        <td>
-            <a href="https://pixabay.com/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="36" height="36" alt="Github" /></a>
-        </td>
-        <td>
-            <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="36" height="36" alt="VS Code" /></a>
-        </td>
-    </tr>
-</table>
 
 ## 📫 Get in touch!
 ![icons8-email-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/48ae7cbc-30e7-40a5-97e6-40e6bb07b206)
