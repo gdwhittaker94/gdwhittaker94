@@ -1,4 +1,4 @@
-# Hi, I'm David Whittaker! ![icons8-programmer](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/3b9a7bbe-636a-4bd5-a197-eb1a0905b93a)
+# Hi, I'm David Whittaker! ![icons8-programmer (1)](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/24036516-4285-43b3-a944-10c2ff8aa223)
 
 
 ## 🚀 About Me
