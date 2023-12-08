@@ -15,6 +15,9 @@ At the start of my career, I am hungry to learn more, build more, connect with m
 <table>
     <tr>
         <td>
+            ![icons8-react-a-javascript-library-for-building-user-interfaces-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/201bc690-f9a0-4edc-9bb8-8ff0def6f003)
+        </td>
+        <td>
             <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
         </td>
         <td>
@@ -64,3 +67,8 @@ At the start of my career, I am hungry to learn more, build more, connect with m
 *Github Top Languages*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdwhittaker94&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a target="_blank" href="https://icons8.com/icon/13930/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/X0mEIh0RyDdL/email">Email</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/asWSSTBrDlTW/react-a-javascript-library-for-building-user-interfaces">React a JavaScript library for building user interfaces</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
