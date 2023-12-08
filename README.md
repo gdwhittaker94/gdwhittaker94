@@ -1,4 +1,3 @@
-![icons8-javascript](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/e0ea37e7-ba9a-4855-9158-09a2b0bef67d)
 # Hi, I'm David Whittaker! 👋
 
 
@@ -8,6 +7,7 @@ I'm a frontend developer who's passionate about building functional, user-friend
 
 At the start of my career, I am hungry to learn more, build more, connect with more people, become a master at my craft and to also become an integral and value-adding asset of an awesome team!
 
+![icons8-flask-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/2b8dcc4e-3450-4f5a-838d-f37676d74988)
 
 
 
