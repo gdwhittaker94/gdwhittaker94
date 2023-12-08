@@ -8,12 +8,6 @@ I'm a frontend developer who's passionate about building functional, user-friend
 
 At the start of my career, I am hungry to learn more, build more, connect with more people, become a master at my craft and to also become an integral and value-adding asset of an awesome team!
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gdwhittaker94.github.io//)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdwhittaker/)
-
-📫 How to reach me: gdwhittaker94@gmail.com or LinkedIn
 
 
 ## 🛠 Skills
@@ -40,6 +34,19 @@ At the start of my career, I am hungry to learn more, build more, connect with m
         </td>
     </tr>
 </table>
+
+## 📫 Get in touch! Me
+
+[![LinkedIn](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/78b47a63-5644-4471-9043-19772c8e7220)](https://www.linkedin.com/in/gdwhittaker/)]
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gdwhittaker94.github.io//)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdwhittaker/)
+
+ How to reach me: gdwhittaker94@gmail.com or LinkedIn
+
  
 
 *Github Stats*
