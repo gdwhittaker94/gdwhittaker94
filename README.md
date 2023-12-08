@@ -10,7 +10,9 @@ At the start of my career, I am hungry to learn more, build more, connect with m
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gdwhittaker94.github.io//)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdwhittaker/)
+
 📫 How to reach me: gdwhittaker94@gmail.com or LinkedIn
 
 
