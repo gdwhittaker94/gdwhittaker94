@@ -38,10 +38,9 @@ I love learning and getting better! These are the different technologies and ski
 
 
 ## 📫 Get in touch!
-<a href="mailto:gdwhittaker94@gmail.com" target="_blank">gdwhittaker94@gmail.com</a> ![icons8-email-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/48ae7cbc-30e7-40a5-97e6-40e6bb07b206)
+<a href="mailto:gdwhittaker94@gmail.com" target="_blank">gdwhittaker94@gmail.com</a> 
 
-<a href="https://www.linkedin.com/in/gdwhittaker/" target="_blank">My LinkedIn</a> ![icons8-linkedin-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/1700abc0-bd39-45ba-b00b-9aa6306d6fe6)
-
+<a href="https://www.linkedin.com/in/gdwhittaker/" target="_blank">My LinkedIn</a> 
 
 
 ## 👨‍💻 Github Stats
