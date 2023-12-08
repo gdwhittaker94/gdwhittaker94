@@ -26,16 +26,13 @@ At the start of my career, I am hungry to learn, build, connect with people, bec
 ![icons8-flask-50](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/f47d6b72-4c8b-4fcd-afbb-2b0bfd570c56)  
 
 ### General 
-![icons8-visual-studio-code-2019-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/264a3d45-3a38-4923-9441-33411d5c11a2) 
-![icons8-git-logo-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/396639bc-7c6c-4d41-9549-3bcf83f4b7bb) 
-![icons8-npm-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/334b0c61-70fa-423b-b749-a341ec694f3f) 
+![icons8-visual-studio-code-2019-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/264a3d45-3a38-4923-9441-33411d5c11a2) ![icons8-git-logo-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/396639bc-7c6c-4d41-9549-3bcf83f4b7bb) ![icons8-npm-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/334b0c61-70fa-423b-b749-a341ec694f3f) 
 
 
 ## 📖 Future Skills & Knowledge
 I love learning and getting better! These are the different technologies and skills I want to focus on in the future: 
 
-![icons8-typescript-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/b8deaa44-3f24-421d-8e52-ba09450b80f3)  
-![icons8-tailwind-css-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/5e7bee00-601b-49e6-b9c3-dc4c464f88ba)
+![icons8-typescript-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/b8deaa44-3f24-421d-8e52-ba09450b80f3)  ![icons8-tailwind-css-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/5e7bee00-601b-49e6-b9c3-dc4c464f88ba)
 
 
 ## 📫 Get in touch!
