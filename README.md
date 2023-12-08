@@ -17,17 +17,17 @@ At the start of my career, I am hungry to learn, build, connect with people, bec
 ![icons8-javascript-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/a4cc2f63-2677-497a-b27e-7a835b836017) . 
 ![icons8-jest-can-collect-code-coverage-information-from-entire-projects-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/225bbbd6-2b9d-4bf1-b374-64441ca00efd) . 
 ![icons8-react-a-javascript-library-for-building-user-interfaces-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/74a0f260-d0bd-4e13-8931-3c0ac84c306e) . 
-![icons8-api-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/afc59544-d225-438f-becc-1d08a82f6536) . 
+![icons8-api-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/afc59544-d225-438f-becc-1d08a82f6536) 
 
 ### Backend
 ![icons8-api-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/afc59544-d225-438f-becc-1d08a82f6536) . 
 ![icons8-python-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/04adf1a3-1a3d-49a8-82a7-66022c9ebfd9) . 
 ![icons8-sql-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/5c3d775d-1fc9-4dbb-b460-65ef80c65029) . 
-![icons8-flask-50](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/f47d6b72-4c8b-4fcd-afbb-2b0bfd570c56) . 
+![icons8-flask-50](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/f47d6b72-4c8b-4fcd-afbb-2b0bfd570c56) 
 
 ### General 
 ![icons8-visual-studio-code-2019-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/264a3d45-3a38-4923-9441-33411d5c11a2) . 
-![icons8-git-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/ad9536b0-c2d0-417b-871a-49f29136a755)
+![icons8-git-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/ad9536b0-c2d0-417b-871a-49f29136a755) . 
 ![icons8-npm-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/334b0c61-70fa-423b-b749-a341ec694f3f)
 
 ## 📖 Future Skills & Knowledge
