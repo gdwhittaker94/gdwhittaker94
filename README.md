@@ -27,7 +27,7 @@ At the start of my career, I am hungry to learn, build, connect with people, bec
 
 ### General 
 ![icons8-visual-studio-code-2019-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/264a3d45-3a38-4923-9441-33411d5c11a2) . 
-![icons8-git-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/ad9536b0-c2d0-417b-871a-49f29136a755) . 
+![icons8-git-logo-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/396639bc-7c6c-4d41-9549-3bcf83f4b7bb) . 
 ![icons8-npm-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/334b0c61-70fa-423b-b749-a341ec694f3f)
 
 
