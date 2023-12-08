@@ -10,7 +10,7 @@ At the start of my career, I am hungry to learn, build, connect with people, bec
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gdwhittaker94.github.io//)
 
 ## 🛠 Skills & Knowledge
-### Frontend 
+#### Frontend 
 ![icons8-html-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/f44d1360-49ce-4b05-aa31-bfbea8cc894b) 
 ![icons8-css-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/de79e063-2d73-424f-ba77-c0cffe7ee89e) 
 ![icons8-bootstrap-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/ce68195f-da9d-4a8c-91a6-9abb1de81fc4) 
@@ -19,13 +19,13 @@ At the start of my career, I am hungry to learn, build, connect with people, bec
 ![icons8-react-a-javascript-library-for-building-user-interfaces-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/74a0f260-d0bd-4e13-8931-3c0ac84c306e) 
 ![icons8-api-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/afc59544-d225-438f-becc-1d08a82f6536) 
 
-### Backend
+#### Backend
 ![icons8-api-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/afc59544-d225-438f-becc-1d08a82f6536) 
 ![icons8-python-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/04adf1a3-1a3d-49a8-82a7-66022c9ebfd9) 
 ![icons8-sql-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/5c3d775d-1fc9-4dbb-b460-65ef80c65029) 
 ![icons8-flask-50](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/f47d6b72-4c8b-4fcd-afbb-2b0bfd570c56)  
 
-### General 
+#### General 
 ![icons8-visual-studio-code-2019-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/264a3d45-3a38-4923-9441-33411d5c11a2) ![icons8-git-logo-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/396639bc-7c6c-4d41-9549-3bcf83f4b7bb) ![icons8-npm-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/334b0c61-70fa-423b-b749-a341ec694f3f) 
 
 
