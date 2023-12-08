@@ -22,7 +22,7 @@ At the start of my career, I am hungry to learn, build, connect with people, bec
 ### Backend
 ![icons8-api-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/afc59544-d225-438f-becc-1d08a82f6536) 
 ![icons8-python-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/04adf1a3-1a3d-49a8-82a7-66022c9ebfd9) 
-![icons8-sql-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/5c3d775d-1fc9-4dbb-b460-65ef80c65029)  
+![icons8-sql-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/5c3d775d-1fc9-4dbb-b460-65ef80c65029) 
 ![icons8-flask-50](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/f47d6b72-4c8b-4fcd-afbb-2b0bfd570c56)  
 
 ### General 
