@@ -4,16 +4,14 @@
 
 ## 🚀 About Me
 
-I'm a frontend web developer, passionate about building visually appealing
-and user-friendly websites. 
+I'm a frontend developer who's passionate about building functional, user-friendly, and aesthetically beautiful webpages and applications. My background combines language teaching, filmmaking, and the study of Social Anthropology which combine to give me a unique set of skills and perspectives which I joyfully bring to my programming work. 
 
-I'm competent in HTML5, CSS, and responsive web design with a good understanding of Git(hub) and Javascript (ES6+) after having built many webpages and projects. 
+At the start of my career, I am hungry to learn more, build more, connect with more people, become a master at my craft and to also become an integral and value-adding asset of an awesome team!
 
-At the start of my career, I am eager to improve my skills, increase my knowledge in a professional environment, and to become an integral and value-adding asset of an awesome team!
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gdwhittaker94.github.io//)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gdwhittaker/)
-
+📫 How to reach me: gdwhittaker94@gmail.com or LinkedIn
 
 
 ## 🛠 Skills
@@ -41,16 +39,6 @@ At the start of my career, I am eager to improve my skills, increase my knowledg
     </tr>
 </table>
  
-## More about me
-👩‍💻 I'm currently working on projects which force me to practice my skills, especially Javascript, and learning everything I can about frontend development - little by little! 
-
-🧠 The next things I want to learn in-depth are React.js, TypeScript, Tailwind CSS, Figma and Jest.
-
-🤔 I'm looking for help with getting better and become an awesome frontender! 
-
-📫 How to reach me: gdwhittaker94@gmail.com or LinkedIn
-
-⚡️ Fun fact: I love dancing Salsa, Bachata, Merengue dance styles 🕺
 
 *Github Stats*
 
