@@ -9,8 +9,6 @@ At the start of my career, I am hungry to learn more, build more, connect with m
 
 ![icons8-flask-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/2b8dcc4e-3450-4f5a-838d-f37676d74988)
 
-
-
 ## 🛠 Skills & Knowledge
 ![icons8-visual-studio-code-2019-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/264a3d45-3a38-4923-9441-33411d5c11a2)
 ![icons8-html-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/f44d1360-49ce-4b05-aa31-bfbea8cc894b)
