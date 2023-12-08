@@ -1,13 +1,11 @@
 # Hi, I'm David Whittaker! 👋
 
-
 ## 🚀 About Me
 
 I'm a frontend developer who's passionate about building functional, user-friendly, and aesthetically beautiful webpages and applications. My background combines language teaching, filmmaking, and the study of Social Anthropology which combine to give me a unique set of skills and perspectives which I joyfully bring to my programming work. 
 
 At the start of my career, I am hungry to learn more, build more, connect with more people, become a master at my craft and to also become an integral and value-adding asset of an awesome team!
 
-![icons8-flask-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/2b8dcc4e-3450-4f5a-838d-f37676d74988)
 
 ## 🛠 Skills & Knowledge
 ![icons8-visual-studio-code-2019-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/264a3d45-3a38-4923-9441-33411d5c11a2)
@@ -22,23 +20,19 @@ At the start of my career, I am hungry to learn more, build more, connect with m
 ![icons8-sql-60](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/49aac8af-0179-4dcf-8a41-e2de3e8db5a5)
 ![icons8-flask-50](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/f47d6b72-4c8b-4fcd-afbb-2b0bfd570c56)
 
+
 ## 📖 Future Skills & Knowledge
 ![icons8-typescript-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/6059f3ce-3ba2-403c-9ea6-b4fcb79f4be2)
 ![icons8-tailwind-css-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/5e7bee00-601b-49e6-b9c3-dc4c464f88ba)
 
-## 📫 Get in touch!
-![icons8-email-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/48ae7cbc-30e7-40a5-97e6-40e6bb07b206)
-<a href="mailto:gdwhittaker94@gmail.com" target="_blank">gdwhittaker94@gmail.com</a>
 
-![icons8-linkedin-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/1700abc0-bd39-45ba-b00b-9aa6306d6fe6)
-<a href="https://www.linkedin.com/in/gdwhittaker/" target="_blank">My LinkedIn</a>
+## 📫 Get in touch!
+![icons8-email-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/48ae7cbc-30e7-40a5-97e6-40e6bb07b206)<a href="mailto:gdwhittaker94@gmail.com" target="_blank">gdwhittaker94@gmail.com</a>
+
+![icons8-linkedin-48](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/1700abc0-bd39-45ba-b00b-9aa6306d6fe6)<a href="https://www.linkedin.com/in/gdwhittaker/" target="_blank">My LinkedIn</a>
 
 
 ------------------
-
-[![LinkedIn](https://github.com/gdwhittaker94/gdwhittaker94/assets/105855731/78b47a63-5644-4471-9043-19772c8e7220)](https://www.linkedin.com/in/gdwhittaker/)]
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gdwhittaker94.github.io//)
 
