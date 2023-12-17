@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a frontend developer who's passionate about building functional, user-friendly, and aesthetically beautiful webpages and applications. My background combines language teaching, filmmaking, and social anthropology, providing me with a unique set of skills and perspectives which I joyfully bring to my programming work. 
+I'm a frontend developer who's passionate about building functional, user-friendly, and aesthetically pleasing webpages and applications. My background combines language teaching, filmmaking, and social anthropology, providing me with a unique set of skills and perspectives which I joyfully bring to my programming work. 
 
 At the start of my career, I am hungry to learn, build, connect with people, become a master at my craft, and to also become an integral and value-adding asset of an awesome team!
 
